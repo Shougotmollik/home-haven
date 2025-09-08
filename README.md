@@ -1,8 +1,10 @@
 ## 🪑 Furniture App
 
 A modern Furniture E-Commerce App built with Flutter, implementing Clean Architecture, Cubit (BLoC) for state management, and GoRouter for navigation.
-
 This project demonstrates scalable Flutter development practices with separation of concerns, testability, and production-ready patterns.
+
+
+<img width="1600" height="960" alt="Screenshot 1" src="https://github.com/user-attachments/assets/fc1d50fb-5122-49b2-9aca-beaad6471d12" />
 
 
 ## App Tour  => https://shorturl.at/0xdxX
